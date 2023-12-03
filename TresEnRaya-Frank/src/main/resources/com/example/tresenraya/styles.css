@@ -1,0 +1,40 @@
+.root {
+    -fx-background-color: #69F7F5;
+    -fx-border-color: black;
+    -fx-border-width: 2;
+    -fx-border-radius: 1;
+}
+
+#vjugador1, #djugador1 {
+    -fx-background-color: #FFFFFF;
+}
+
+#vjugador2, #djugador2 {
+    -fx-background-color: #FFFFFF;
+}
+
+#tj1, #tj2 {
+    -fx-font-size: 18;
+    -fx-fill: #000000;
+}
+
+#jugador1TextField, #jugador2TextField {
+    -fx-background-color: #FFFFFF;
+}
+
+#b0, #b1, #b2, #b3, #b4, #b5, #b6, #b7, #b8 {
+    -fx-font-size: 70;
+    -fx-background-color: #CCD2D2;
+    -fx-text-fill: #000000;
+}
+
+#buttonabandonarpartida, #botonempezarpartida {
+    -fx-background-color: #32CD32;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 16;
+}
+
+#title {
+    -fx-font-size: 20;
+    -fx-fill: #000000;
+}
